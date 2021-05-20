@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" margin="100px">
   <img src="./src/assets/logo.svg" alt="DTmoney logo">
 </div>
 
