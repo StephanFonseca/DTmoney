@@ -1,4 +1,4 @@
-<div align="center" margin="100px">
+<div align="center">
   <img src="./src/assets/logo.svg" alt="DTmoney logo">
 </div>
 
@@ -20,7 +20,7 @@ Technologies used in the project
 - [MirageJS](https://miragejs.com/)
 
 <h2>
-  ## 🚀  Installation
+   🚀  Installation
 </h2>
 
 ### Clone the repository to have a copy of the code on your machine
